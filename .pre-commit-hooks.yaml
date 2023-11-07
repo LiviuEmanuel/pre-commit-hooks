@@ -180,6 +180,12 @@
     language: python
     pass_filenames: false
     always_run: true
+-   id: branch_name_checker_and_id_issues_checker
+    name: "branch and id issues checker"
+    entry: branch_name_checker_and_id_issues_checker
+    language: python
+    pass_filenames: false
+    always_run: true
 -   id: requirements-txt-fixer
     name: fix requirements.txt
     description: sorts entries in requirements.txt.
