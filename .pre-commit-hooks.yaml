@@ -180,9 +180,9 @@
     language: python
     pass_filenames: false
     always_run: true
--   id: branch_name_checker_and_id_issues_checker
+-   id: branch-name-checker-and-id-issues-checker
     name: "branch and id issues checker"
-    entry: branch_name_checker_and_id_issues_checker
+    entry: branch-name-checker-and-id-issues-checker
     language: python
     pass_filenames: false
     always_run: true
